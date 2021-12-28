@@ -1,0 +1,23 @@
+body {
+    background: #cfcfcf;
+}
+
+header {
+    background: #7c7c7c;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: orangered;
+}
+
+span {
+    color: red;
+}
+
+section a {
+    text-decoration: none;
+}
